@@ -1,3 +1,7 @@
+// Name:
+// Block:
+// Lab 9: Box Surface Area and Volume
+
 #include <iostream>
 using namespace std;
 
@@ -13,7 +17,7 @@ int main() {
     w = promptDimensions("Width"),
     h = promptDimensions("Height");
 
-  cout << "\nThe box's exterior surface area is " << (double)(2*l*w)+(2*l*h)+(2*h*w) << " square inches.\nThe box's volume is " << (double)l*w*h << " cubic inches.";
+  cout << "\nThe box's exterior surface area is " << (2*l*w)+(2*l*h)+(2*h*w) << " square inches.\nThe box's volume is " << l*w*h << " cubic inches.";
 };
 
 
