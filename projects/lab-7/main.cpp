@@ -20,19 +20,19 @@ int main() {
       cout << "Do you have an employee to pay? (Y or N) ";
     cin >> option;
     if ('N' == option) {
-      cout << endl
-           << "Thanks for using our software, hope you have a wonderful day!";
+      cout << "\nThanks for using our software, hope you have a wonderful day!";
       return 0;
     };
 
     string first_name, last_name;
-    cout << endl << "What is their First Name? ";
+    cout << "\nWhat is their First Name? ";
     cin >> first_name;
     cout << "What is their Last Name? ";
     cin >> last_name;
 
     char role;
     double total = 0.0, uncle_sam = 0.28;
+
     while (total == 0.0) {
       cout << "\nWhat is their role here at Five-Babbage Burgers and Fries "
               "Inc.?\n\nA. Counter Staff\nK. Kitchen Cook\nD. Dishwasher\nM. "
@@ -60,8 +60,7 @@ int main() {
       total = hours * total;
     }
 
-    cout << endl
-         << "Paycheck Information: " << first_name << " " << last_name
+    cout << "\nPaycheck Information: " << first_name << " " << last_name
          << " . . . . . $" << (double)total - total * uncle_sam << "\n\n";
   } while (option == 'Y');
 
