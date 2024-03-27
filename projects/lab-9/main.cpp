@@ -9,24 +9,30 @@ using namespace std;
 double convertToInches(char unit, double measurement);
 double promptDimensions(string dimension);
 
-
 int main() {
   cout << "Welcome to my box calculator!\n";
 
-  double l = promptDimensions("Length"),
-    w = promptDimensions("Width"),
-    h = promptDimensions("Height");
+  double l = promptDimensions("Length"), w = promptDimensions("Width"),
+         h = promptDimensions("Height");
 
-  cout << "\nThe box's exterior surface area is " << (2*l*w)+(2*l*h)+(2*h*w) << " square inches.\nThe box's volume is " << l*w*h << " cubic inches.";
+  cout << "\nThe box's exterior surface area is "
+       << (2 * l * w) + (2 * l * h) + (2 * h * w)
+       << " square inches.\nThe box's volume is " << l * w * h
+       << " cubic inches.";
 };
-
 
 // Function definition (code) here:
 double convertToInches(char unit, double measurement) {
   switch (unit) {
-    case 'F': measurement*=12; break;
-    case 'C': measurement/=2.54; break;
-    case 'M': measurement*=39.37; break;
+  case 'F':
+    measurement *= 12;
+    break;
+  case 'C':
+    measurement /= 2.54;
+    break;
+  case 'M':
+    measurement *= 39.37;
+    break;
   }
 
   return measurement;
