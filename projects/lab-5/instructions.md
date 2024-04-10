@@ -26,13 +26,13 @@ When you run your program, your output should look like the sample runs below wh
 
 **_Sample Runs:_** (The code was run four times, your program does not need to repeat)
 
-![Lab5samplerun1](assets/Lab5samplerun1.png)
+![Lab5samplerun1](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/assets/Lab5samplerun1.png)
 
-![Lab5samplerun2](assets/Lab5samplerun2.png)
+![Lab5samplerun2](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/assets/Lab5samplerun2.png)
 
-![Lab5samplerun6](assets/Lab5samplerun6.png)
+![Lab5samplerun6](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/assets/Lab5samplerun6.png)
 
-![Lab5samplerun5](assets/Lab5samplerun5.png)
+![Lab5samplerun5](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/assets/Lab5samplerun5.png)
 
 
 

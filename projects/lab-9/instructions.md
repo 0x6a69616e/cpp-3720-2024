@@ -21,7 +21,7 @@ There should **not** be a separate function for each dimension!  The conversion 
 
 **_Sample Run:_**	
 
-![Lab9samplerun](assets/Lab9samplerun.png)
+![Lab9samplerun](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/assets/Lab9samplerun.png)
 
 
 _Note:_ your values may be off by a decimal point or two due to rounding of conversion factors (so it's okay if you fail a test for that reason alone). There is no need for `setprecision` commands here though.

@@ -22,7 +22,7 @@ Each hourly employee’s paycheck has 28% withheld for Uncle Sam (taxes) and sal
 Write a program that will loop until all employees in the company have been paid.  This means asking the user if they are finished or need to continue. Each time through the loop a menu prompts the user asking what type of employee they are calculating the salary for and, *if appropriate*, how many hours they worked.  The program should then respond with the user’s name and take-home pay for the week.
 
 Here is what the menu should look like:
-![Lab7menu](assets/Lab7menu.png)
+![Lab7menu](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/assets/Lab7menu.png)
 
 The user will select **A, K, D or M**  and then ask for the number of hours (decimals are allowed) and correctly calculate the paycheck corresponding to the appropriate staff’s pay and display it: Name followed by their pay.
 
@@ -33,8 +33,8 @@ A `while` loop should be used to make the program run until you are out of emplo
 
 
 **_Sample Run:_**	
-![Lab7samplerun1](assets/Lab7samplerun1.png)
-![Lab7samplerun2](assets/Lab7samplerun2.png)
+![Lab7samplerun1](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/assets/Lab7samplerun1.png)
+![Lab7samplerun2](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/assets/Lab7samplerun2.png)
 
 
 Check the scoring guide to make sure you have satisfied the lab requirements before submitting your work. Remember that passing the tests here does not guarantee a perfect score!

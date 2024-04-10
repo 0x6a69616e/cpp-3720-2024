@@ -72,7 +72,7 @@ To maintain our calendar system, certain years are designated as leap years and 
 
 **_Sample Runs_** (This shows the program was run five times. Yours doesn't need to repeat):	
 
-![Lab8sampleruns](assets/Lab8sampleruns.png)
+![Lab8sampleruns](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/assets/Lab8sampleruns.png)
 
 Check the scoring guide to make sure you have satisfied the lab requirements before submitting your work. Remember that passing the tests here does not guarantee a perfect score!
 
