@@ -1,5 +1,5 @@
-// Name: Jian Paul Gotico
-// Block: G
+// Name:
+// Block:
 // Lab 11: Miniature Golf
 
 #include <iomanip>
