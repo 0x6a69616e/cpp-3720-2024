@@ -18,7 +18,7 @@ When you pass your array it is always passed as a reference parameter, even if y
 
 *The output for your scorecard should look just like what you see below, with proper spacing and alignment. I have skipped many lines of input in the ... to save space*
 
-![Image alt text](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/assets/lab11samplerun.png)
+![Image alt text](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/projects/lab-11/lab11samplerun.png)
 
 **_Hints:_** (see reference documents listed below for more details)
 

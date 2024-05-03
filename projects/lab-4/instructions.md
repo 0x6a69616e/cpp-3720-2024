@@ -20,10 +20,10 @@ When starting a new assignment in Replit, don’t forget to add your name and bl
 
 **_Sample Run:_**	
 When you run your program, your output should look exactly like this when the numbers shown in bold below are entered by the user. 
-![Lab4samplerun1](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/assets/Lab4SampleRun1.png)
+![Lab4samplerun1](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/projects/lab-4/Lab4SampleRun1.png)
 
 Here’s another example. Be sure to test other values too.
-![Lab4samplerun1](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/assets/Lab4SampleRun2.png)
+![Lab4samplerun1](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/projects/lab-4/Lab4SampleRun2.png)
 
 Check the tests (checkmark on the left) and check the scoring guide (under Files) to make sure you have satisfied the lab requirements before submitting your work (button at the top right).
 

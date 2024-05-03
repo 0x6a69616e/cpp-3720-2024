@@ -9,7 +9,7 @@ To write a program with:
 **_Assignment:_**
 The slope *m* of the line between the two points (*x*1, *y*1) and (*x*2, *y*2) is given by the formula:
 
-![Lab5formula](assets/Lab5formula.png)
+![Lab5formula](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/projects/lab-5/Lab5formula.png)
 		
 **_Part 1:_**  Write a program that will ask the user for the coordinates of two points and do the following:
 
@@ -26,13 +26,13 @@ When you run your program, your output should look like the sample runs below wh
 
 **_Sample Runs:_** (The code was run four times, your program does not need to repeat)
 
-![Lab5samplerun1](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/assets/Lab5samplerun1.png)
+![Lab5samplerun1](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/projects/lab-5/Lab5samplerun1.png)
 
-![Lab5samplerun2](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/assets/Lab5samplerun2.png)
+![Lab5samplerun2](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/projects/lab-5/Lab5samplerun2.png)
 
-![Lab5samplerun6](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/assets/Lab5samplerun6.png)
+![Lab5samplerun6](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/projects/lab-5/Lab5samplerun6.png)
 
-![Lab5samplerun5](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/assets/Lab5samplerun5.png)
+![Lab5samplerun5](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/projects/lab-5/Lab5samplerun5.png)
 
 
 

@@ -23,7 +23,7 @@ The program will also now calculate a running total of the gallons needed to pai
 
 **_Sample Run:_**
 
-![Lab10samplerun](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/assets/Lab10samplerun.png)
+![Lab10samplerun](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/projects/lab-10/Lab10samplerun.png)
 
 Check the scoring guide to make sure you have satisfied the lab requirements before submitting your work. Remember that passing the tests here does not guarantee a perfect score!
 

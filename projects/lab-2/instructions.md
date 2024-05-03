@@ -7,7 +7,7 @@ To become familiar with C++ programs and with the `cout` command by modifying an
 
 **Part 1:**  Copy the code below by typing into your main.cpp. The comment header you see at the top will be there on all future labs. **Be sure to fill in your name and block every time!** Run the program and make sure the output shown in the console looks like a proper house.
 
-![Image alt text](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/assets/Lab2code.png)
+![Image alt text](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/projects/lab-2/Lab2code.png)
 
 	
 **Part 2:**  Now modify the house: add a door, window, chimney, and/or anything else you please.  Be creative!

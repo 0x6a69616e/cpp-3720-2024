@@ -17,7 +17,7 @@ Next, modify the program so that it asks the user how many weeks are in the give
 Also, make the program output an appropriate message at the end of its run.  Output must look exactly as you see it below, including spacing. 
 
 **_Sample Run:_**	
-![Lab6samplerun](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/assets/Lab6samplerun.png)
+![Lab6samplerun](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/projects/lab-6/Lab6samplerun.png)
 
 _Note:_  Your total pay may not add precisely to the total of the individual weeks due to rounding errors.
 

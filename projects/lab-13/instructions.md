@@ -23,7 +23,7 @@ The scoreboard and other information should be displayed as shown below.
 **_Partial Sample Run_**
 Notice there are not perfect lines in this grid, just pipes ( | ) and dashes (-). You can use `setw(5)` and 3 spaces after each number to help things line up as nicely as possible.
 
-![Lab13samplerun](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/assets/Lab13samplerun.png)
+![Lab13samplerun](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/projects/lab-13/Lab13samplerun.png)
 
 
 Check the scoring guide to make sure you have satisfied the lab requirements before submitting your work. Remember that passing the tests here does not guarantee a perfect score!

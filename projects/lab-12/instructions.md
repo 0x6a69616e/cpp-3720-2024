@@ -28,7 +28,7 @@ Write a program, containing at least **3 functions** (other than main), that wil
  
  
 **_Sample Runs_** (this shows the program was run twice):	
-![Lab12sampleruns](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/assets/Lab12sampleruns.png)
+![Lab12sampleruns](https://cdn.jsdelivr.net/gh/0x6a69616e/cpp-course-3720/projects/lab-12/Lab12sampleruns.png)
 
 Check the scoring guide to make sure you have satisfied the lab requirements before submitting your work. Remember that passing the tests here does not guarantee a perfect score!
 
